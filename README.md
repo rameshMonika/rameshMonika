@@ -9,7 +9,7 @@
 
 </div>
 
-## About Me
+## 🧑‍💻 About Me
 
 - 🔭 Building agentic AI systems with production-ready cloud infrastructure
 - ☁️ Interested in scalable AI deployment, observability and platform engineering
@@ -17,7 +17,7 @@
 - 🏗️ Currently exploring Kubernetes, LLM deployment and MLOps
 - 💬 Ask me about FastAPI, Docker, Terraform, Azure, GCP and AI agents
 
-## Featured Projects
+## 🗂️ Featured Projects
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Stacks** &nbsp;![MERN](https://img.shields.io/badge/MERN_Stack-3C873A?style=flat-square&logo=mongodb&logoColor=white) ![PERN](https://img.shields.io/badge/PERN_Stack-336791?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -42,11 +42,11 @@
 
 **Frontend** &nbsp;![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## What I'm Building
+## 🎯 What I'm Building
 
 Agentic AI • RAG • MCP • LLM Evaluation • Cloud Infrastructure
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="right">
 
