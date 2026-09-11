@@ -1,3 +1,9 @@
+# 📌 Featured Projects
+[![carbonleap](https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=carbonleap&theme=tokyonight&hide_border=false)](https://github.com/rameshMonika/carbonleap)
+[![risklensai](https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=risklensai&theme=tokyonight&hide_border=false)](https://github.com/rameshMonika/risklensai)
+[![CSC3109-ML](https://github-readme-stats.shion.dev/api/pin/?username=ErnestaLim&repo=CSC3109-ML&theme=tokyonight&hide_border=false)](https://github.com/ErnestaLim/CSC3109-ML)
+[![migrant-buddy](https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=migrant-buddy&theme=tokyonight&hide_border=false)](https://github.com/rameshMonika/migrant-buddy)
+
 # 💫 About Me:
 🔭 I’m currently working on: Agentic AI projects with cloud infrastructure<br>👯 I’m looking to collaborate on: AI engineering, agentic AI and cloud-native projects<br>🌱 I’m currently learning: LLM deployment, cloud infrastructure and production AI engineering<br>💬 Ask me about: LangGraph, RAG, MCP, FastAPI, Docker, Kubernetes and cloud
 
