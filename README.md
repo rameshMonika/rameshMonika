@@ -329,11 +329,6 @@
 
 </div>
 
-📊 GitHub Statistics
-
-<div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=rameshMonika&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" /> </div>
-
 🔝 Top Contributed Repo
 
 <div align="center">
