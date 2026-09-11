@@ -48,6 +48,14 @@ Agentic AI • RAG • MCP • LLM Evaluation • Cloud Infrastructure • MLOps
 
 ## 📈 GitHub Activity
 
-<div align="center"> <img src="https://ghchart.rshah.org/0369A1/rameshMonika" width="100%" alt="Contribution graph" /> </div>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rameshMonika/rameshMonika/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rameshMonika/rameshMonika/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rameshMonika/rameshMonika/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution graph" />
+</picture>
+
+</div>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:38BDF8,100:93C5FD&height=110&section=footer" width="100%" alt="Footer" /> </div>
