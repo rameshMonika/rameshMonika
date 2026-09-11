@@ -9,7 +9,7 @@
 
 </div>
 
-## <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.5.1/svgs/solid/user.svg" width="20" height="20" valign="middle" alt="" /> About Me
+## <img src="https://raw.githubusercontent.com/rameshMonika/rameshMonika/main/assets/icons/user.svg" width="20" height="20" valign="middle" alt="" /> About Me
 
 - 🔭 Building agentic AI systems with production-ready cloud infrastructure
 - ☁️ Interested in scalable AI deployment, observability and platform engineering
@@ -17,7 +17,7 @@
 - 🏗️ Currently exploring Kubernetes, LLM deployment and MLOps
 - 💬 Ask me about FastAPI, Docker, Terraform, Azure, GCP and AI agents
 
-## <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.5.1/svgs/solid/folder-open.svg" width="20" height="20" valign="middle" alt="" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/rameshMonika/rameshMonika/main/assets/icons/folder-open.svg" width="20" height="20" valign="middle" alt="" /> Featured Projects
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-## <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.5.1/svgs/solid/toolbox.svg" width="20" height="20" valign="middle" alt="" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/rameshMonika/rameshMonika/main/assets/icons/toolbox.svg" width="20" height="20" valign="middle" alt="" /> Tech Stack
 
 **Stacks** &nbsp;![MERN](https://img.shields.io/badge/MERN_Stack-3C873A?style=flat-square&logo=mongodb&logoColor=white) ![PERN](https://img.shields.io/badge/PERN_Stack-336791?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -42,11 +42,11 @@
 
 **Frontend** &nbsp;![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.5.1/svgs/solid/bullseye.svg" width="20" height="20" valign="middle" alt="" /> What I'm Building
+## <img src="https://raw.githubusercontent.com/rameshMonika/rameshMonika/main/assets/icons/bullseye.svg" width="20" height="20" valign="middle" alt="" /> What I'm Building
 
 Agentic AI • RAG • MCP • LLM Evaluation • Cloud Infrastructure
 
-## <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.5.1/svgs/solid/chart-line.svg" width="20" height="20" valign="middle" alt="" /> GitHub Activity
+## <img src="https://raw.githubusercontent.com/rameshMonika/rameshMonika/main/assets/icons/chart-line.svg" width="20" height="20" valign="middle" alt="" /> GitHub Activity
 
 <div align="right">
 
