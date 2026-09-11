@@ -1,8 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020617,100:0F172A&height=180&section=header&text=RAMESH%20MONIKA&fontSize=42&fontColor=22D3EE&fontAlignY=35&desc=Cloud-Native%20AI%20Engineer&descAlignY=58&descSize=18&descColor=94A3B8" width="100%" alt="Dark cloud-native header" />
+<table width="100%" bgcolor="#050816"><tr><td bgcolor="#050816"> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020617,100:0F172A&height=180&section=header&text=RAMESH%20MONIKA&fontSize=42&fontColor=22D3EE&fontAlignY=35&desc=Cloud-Native%20AI%20Engineer&descAlignY=58&descSize=18&descColor=94A3B8" width="100%" alt="Dark cloud-native header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=%E2%96%88+Cloud-Native+AI+Engineer;_%7C+Building+scalable+Agentic+AI+systems;_%7C+Kubernetes+%7C+Docker+%7C+Terraform;_%7C+RAG+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Cloud-native typing animation" /></a>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/gradient.gif" width="520px" alt="Animated gradient divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:111827&height=18&section=header" width="100%" alt="Dark divider" />
 
 
 
@@ -282,5 +282,5 @@ Designing intelligent systems that are reliable, observable, and ready to scale.
 
 
 
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:020617,100:000000&height=120&section=footer" width="100%" alt="Dark footer" /> </div> <!-- Proudly created with GPRM (https://gprm.itsvg.in ) -->
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:020617,100:000000&height=120&section=footer" width="100%" alt="Dark footer" /> </div> <!-- Proudly created with GPRM (https://gprm.itsvg.in ) --> </td></tr></table>
 
