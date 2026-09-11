@@ -1,7 +1,7 @@
 <div align="center">
 
 # RAMESH MONIKA
-### AI Engineer | Agentic Systems & Cloud Infrastructure
+### Full-Stack Developer | AI Engineer | Agentic Systems & Cloud Infrastructure
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=075985&center=true&vCenter=true&width=760&lines=Building+agentic+AI+systems;LangGraph+%7C+RAG+%7C+MCP+%7C+LLM+evaluation;Kubernetes+%7C+Docker+%7C+Terraform" alt="Typing animation" /></a>
 
@@ -29,6 +29,8 @@
 </div>
 
 ## 💻 Tech Stack
+
+**Stacks** &nbsp;![MERN](https://img.shields.io/badge/MERN_Stack-3C873A?style=flat-square&logo=mongodb&logoColor=white) ![PERN](https://img.shields.io/badge/PERN_Stack-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI** &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square) ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) ![Ragas](https://img.shields.io/badge/Ragas-BD34FE?style=flat-square)
 
