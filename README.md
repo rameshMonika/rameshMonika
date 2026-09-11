@@ -263,24 +263,5 @@ Designing intelligent systems that are reliable, observable, and ready to scale.
 
 </div>
 
-📊 GitHub Statistics
-
-<div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=rameshMonika&show_icons=true&theme=tokyonight&bg_color=0B1120&title_color=67E8F9&text_color=C4B5FD&icon_color=F472B6&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=tokyonight&bg_color=0B1120&title_color=67E8F9&text_color=C4B5FD&icon_color=F472B6&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" /> </div>
-
-🔝 Top Contributed Repo
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:020617,100:000000&height=120&section=footer" width="100%" alt="Dark footer" /> </div> <!-- Proudly created with GPRM (https://gprm.itsvg.in ) --> </td></tr></table>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:020617,100:000000&height=120&section=footer" width="100%" alt="Dark footer" /> </div> <!-- Proudly created with GPRM (https://gprm.itsvg.in ) --> </td></tr></table>
 
