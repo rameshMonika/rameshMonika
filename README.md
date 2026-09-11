@@ -14,35 +14,14 @@
 
 ## 📌 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🧠 [RiskLens](https://github.com/rameshMonika/risklensai)
-Multi-agent portfolio risk investigation platform
+<a href="https://github.com/rameshMonika/risklensai"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=risklensai&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="risklensai" /></a>
+<a href="https://github.com/rameshMonika/migrant-buddy"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=migrant-buddy&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="migrant-buddy" /></a>
+<a href="https://github.com/rameshMonika/carbonleap"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=carbonleap&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="carbonleap" /></a>
+<a href="https://github.com/ErnestaLim/CSC3109-ML"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ErnestaLim&repo=CSC3109-ML&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="CSC3109-ML" /></a>
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 [MigrantBuddy](https://github.com/rameshMonika/migrant-buddy)
-Multilingual conversational RAG assistant for migrant workers
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 [CarbonLeap](https://github.com/rameshMonika/carbonleap)
-Cloud-native carbon footprint tracking platform
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [CSC3109-ML](https://github.com/ErnestaLim/CSC3109-ML)
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 💻 Tech Stack
 
