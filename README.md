@@ -61,10 +61,5 @@
 <div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=rameshMonika&show_icons=true&theme=tokyonight&bg_color=0B1120&title_color=67E8F9&text_color=C4B5FD&icon_color=F472B6&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=tokyonight&bg_color=0B1120&title_color=67E8F9&text_color=C4B5FD&icon_color=F472B6&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" /> </div>
 
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rameshMonika&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:111827,100:050816&height=120&section=footer" width="100%" alt="Dark footer" /> </div> <!-- Proudly created with GPRM (https://gprm.itsvg.in ) -->
