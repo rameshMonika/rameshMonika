@@ -34,11 +34,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="28" alt="Cloud" /> Cloud-Native Profile
-
-
-Designing intelligent systems that are reliable, observable, and ready to scale.<sub>For the intended dark appearance, set GitHub to Settings → Appearance → Dark. GitHub controls the page background; README Markdown cannot force the entire profile page background with CSS.</sub>
-
 💫 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/terminal.gif" width="300px" alt="Animated terminal" />
