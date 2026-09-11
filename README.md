@@ -44,7 +44,7 @@
 
 ## 🧭 What I'm Building
 
-Agentic AI • RAG • MCP • LLM Evaluation • Cloud Infrastructure • MLOps
+Agentic AI • RAG • MCP • LLM Evaluation • Cloud Infrastructure
 
 ## 📈 GitHub Activity
 
