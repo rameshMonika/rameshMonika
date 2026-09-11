@@ -1,12 +1,12 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:A5F3FC&height=170&section=header&text=RAMESH%20MONIKA&fontSize=42&fontColor=0F172A&fontAlignY=35&desc=Cloud-Native%20AI%20Engineer&descAlignY=58&descSize=18&descColor=334155" width="100%" alt="Cloud-native header" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,50:38BDF8,100:06B6D4&height=170&section=header&text=RAMESH%20MONIKA&fontSize=42&fontColor=082F49&fontAlignY=35&desc=Cloud-Native%20AI%20Engineer&descAlignY=58&descSize=18&descColor=0F172A" width="100%" alt="Cloud-native header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=0891B2&center=true&vCenter=true&width=760&lines=%E2%9C%A8+Cloud-Native+AI+Engineer;Building+scalable+Agentic+AI+systems;Kubernetes+%7C+Docker+%7C+Terraform;RAG+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Cloud-native typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=075985&center=true&vCenter=true&width=760&lines=%E2%9C%A8+Cloud-Native+AI+Engineer;Building+scalable+Agentic+AI+systems;Kubernetes+%7C+Docker+%7C+Terraform;RAG+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Cloud-native typing animation" /></a>
 
 </div>
 
 📈 Contribution Graph
 
-<div align="center"> <img src="https://ghchart.rshah.org/0891B2/rameshMonika" width="100%" alt="Contribution graph" /> </div>
+<div align="center"> <img src="https://ghchart.rshah.org/0369A1/rameshMonika" width="100%" alt="Contribution graph" /> </div>
 
 💫 About Me
 
@@ -32,10 +32,10 @@
 
 <div align="center">
 
-<a href="https://github.com/rameshMonika/carbonleap"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=carbonleap&theme=default&bg_color=ffffff&title_color=0891B2&text_color=334155&icon_color=F97316&hide_border=false" alt="carbonleap" /></a>
-<a href="https://github.com/rameshMonika/risklensai"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=risklensai&theme=default&bg_color=ffffff&title_color=0891B2&text_color=334155&icon_color=F97316&hide_border=false" alt="risklensai" /></a>
-<a href="https://github.com/ErnestaLim/CSC3109-ML"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ErnestaLim&repo=CSC3109-ML&theme=default&bg_color=ffffff&title_color=0891B2&text_color=334155&icon_color=F97316&hide_border=false" alt="CSC3109-ML" /></a>
-<a href="https://github.com/rameshMonika/migrant-buddy"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=migrant-buddy&theme=default&bg_color=ffffff&title_color=0891B2&text_color=334155&icon_color=F97316&hide_border=false" alt="migrant-buddy" /></a>
+<a href="https://github.com/rameshMonika/carbonleap"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=carbonleap&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="carbonleap" /></a>
+<a href="https://github.com/rameshMonika/risklensai"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=risklensai&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="risklensai" /></a>
+<a href="https://github.com/ErnestaLim/CSC3109-ML"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ErnestaLim&repo=CSC3109-ML&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="CSC3109-ML" /></a>
+<a href="https://github.com/rameshMonika/migrant-buddy"><img src="https://github-readme-stats.shion.dev/api/pin/?username=rameshMonika&repo=migrant-buddy&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false" alt="migrant-buddy" /></a>
 
 </div>
 
@@ -302,8 +302,8 @@
 
 📊 GitHub Statistics
 
-<div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=rameshMonika&show_icons=true&theme=default&bg_color=ffffff&title_color=0891B2&text_color=334155&icon_color=F97316&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=default&bg_color=ffffff&title_color=0891B2&text_color=334155&icon_color=F97316&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" /> </div>
+<div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=rameshMonika&show_icons=true&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" /> </div>
 
 🔝 Top Contributed Repo
 
@@ -319,5 +319,5 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:A5F3FC&height=110&section=footer" width="100%" alt="Light footer" /> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:38BDF8,100:93C5FD&height=110&section=footer" width="100%" alt="Light footer" /> </div>
 
