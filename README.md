@@ -304,7 +304,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=default&bg_color=EFF6FF&title_color=075985&text_color=1E293B&icon_color=EA580C&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" width="80%" />
 
 
 
