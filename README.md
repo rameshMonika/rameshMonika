@@ -48,6 +48,12 @@ Agentic AI • RAG • MCP • LLM Evaluation • Cloud Infrastructure
 
 ## 📈 GitHub Activity
 
+<div align="right">
+
+<img src="https://github-readme-stats.shion.dev/api?username=rameshMonika&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&text_color=075985&icon_color=EA580C&title_color=075985&custom_title=%20" height="70" alt="Total commits" />
+
+</div>
+
 <div align="center">
 
 <picture>
