@@ -2,6 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=075985&center=true&vCenter=true&width=760&lines=Building+agentic+AI+systems;LangGraph+%7C+RAG+%7C+MCP+%7C+LLM+evaluation;Kubernetes+%7C+Docker+%7C+Terraform" alt="Typing animation" /></a>
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand" />
+
 </div>
 
 ## 💫 About Me
