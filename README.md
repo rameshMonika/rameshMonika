@@ -1,20 +1,45 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:312E81&height=180&section=header&text=RAMESH%20MONIKA&fontSize=42&fontColor=67E8F9&fontAlignY=35&desc=Cloud-Native%20AI%20Engineer&descAlignY=58&descSize=18&descColor=A78BFA" width="100%" alt="Dark cloud-native header" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020617,100:0F172A&height=180&section=header&text=RAMESH%20MONIKA&fontSize=42&fontColor=22D3EE&fontAlignY=35&desc=Cloud-Native%20AI%20Engineer&descAlignY=58&descSize=18&descColor=94A3B8" width="100%" alt="Dark cloud-native header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Cloud-Native+AI+Engineer+%E2%98%81%EF%B8%8F;Building+scalable+Agentic+AI+systems;Kubernetes+%7C+Docker+%7C+Terraform;RAG+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Cloud-native typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=%E2%96%88+Cloud-Native+AI+Engineer;_%7C+Building+scalable+Agentic+AI+systems;_%7C+Kubernetes+%7C+Docker+%7C+Terraform;_%7C+RAG+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Cloud-native typing animation" /></a>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="Waving hand" />
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/gradient.gif" width="520px" alt="Animated gradient divider" />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/monika-ramesh/)
-[![Email](https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=F472B6)](mailto:monikaramesh113@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=rameshMonika&style=for-the-badge&color=312E81&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="28" alt="Cloud" /> Cloud-Native Profile
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="28" alt="Cloud" /> Cloud-Native Profile
 
-> **Designing intelligent systems that are reliable, observable, and ready to scale.**
 
-## 📌 Featured Projects
+Designing intelligent systems that are reliable, observable, and ready to scale.<sub>For the intended dark appearance, set GitHub to Settings → Appearance → Dark. GitHub controls the page background; README Markdown cannot force the entire profile page background with CSS.</sub>
+
+📌 Featured Projects
 
 <div align="center">
 
@@ -25,41 +50,237 @@
 
 </div>
 
-## 💫 About Me
+💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px" alt="Coding animation" />
+<img align="right" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/terminal.gif" width="300px" alt="Animated terminal" />
 
-- 🔭 **Building:** Agentic AI systems with cloud-native infrastructure
+•
+🔭 Building: Agentic AI systems with cloud-native infrastructure
 
-- ☁️ **Focused on:** Scalable, observable, and resilient production platforms
+•
+☁️ Focused on: Scalable, observable, and resilient production platforms
 
-- 👯 **Collaborating on:** AI engineering, cloud-native, and open-source projects
+•
+👯 Collaborating on: AI engineering, cloud-native, and open-source projects
 
-- 🌱 **Learning:** LLM deployment, Kubernetes, platform engineering, and MLOps
+•
+🌱 Learning: LLM deployment, Kubernetes, platform engineering, and MLOps
 
-- 💬 **Ask me about:** LangGraph, RAG, MCP, FastAPI, Docker, Kubernetes, and cloud
+•
+💬 Ask me about: LangGraph, RAG, MCP, FastAPI, Docker, Kubernetes, and cloud
 
-- ⚡ **Mission:** Turning intelligent ideas into reliable production systems
+•
+⚡ Mission: Turning intelligent ideas into reliable production systems
 
 <br clear="right" />
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/monika-ramesh/)
-[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=F472B6)](mailto:monikaramesh113@gmail.com)
 
-## 💻 Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+💻 Tech Stack
 
 <div align="center">
 
-![Azure](https://img.shields.io/badge/Azure-0B1120?style=flat-square&logo=microsoftazure&logoColor=67E8F9) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0B1120?style=flat-square&logo=google-cloud&logoColor=67E8F9) ![Python](https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=FACC15) ![FastAPI](https://img.shields.io/badge/FastAPI-0B1120?style=flat-square&logo=fastapi&logoColor=67E8F9) ![PyTorch](https://img.shields.io/badge/PyTorch-0B1120?style=flat-square&logo=pytorch&logoColor=F97316) ![LangChain](https://img.shields.io/badge/LangChain-0B1120?style=flat-square&logo=chainlink&logoColor=67E8F9) ![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-0B1120?style=flat-square&logo=node.js&logoColor=86EFAC) ![Docker](https://img.shields.io/badge/Docker-0B1120?style=flat-square&logo=docker&logoColor=60A5FA) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1120?style=flat-square&logo=kubernetes&logoColor=60A5FA) ![Terraform](https://img.shields.io/badge/Terraform-0B1120?style=flat-square&logo=terraform&logoColor=A78BFA) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1120?style=flat-square&logo=github-actions&logoColor=67E8F9) ![Nginx](https://img.shields.io/badge/Nginx-0B1120?style=flat-square&logo=nginx&logoColor=86EFAC) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1120?style=flat-square&logo=postgresql&logoColor=60A5FA) ![MongoDB](https://img.shields.io/badge/MongoDB-0B1120?style=flat-square&logo=mongodb&logoColor=86EFAC) ![Redis](https://img.shields.io/badge/Redis-0B1120?style=flat-square&logo=redis&logoColor=F87171) ![Grafana](https://img.shields.io/badge/Grafana-0B1120?style=flat-square&logo=grafana&logoColor=F97316) ![Prometheus](https://img.shields.io/badge/Prometheus-0B1120?style=flat-square&logo=prometheus&logoColor=F97316) ![Git](https://img.shields.io/badge/Git-0B1120?style=flat-square&logo=git&logoColor=F97316) ![Postman](https://img.shields.io/badge/Postman-0B1120?style=flat-square&logo=postman&logoColor=F97316)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 </div>
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=rameshMonika&show_icons=true&theme=tokyonight&bg_color=0B1120&title_color=67E8F9&text_color=C4B5FD&icon_color=F472B6&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rameshMonika&theme=tokyonight&bg_color=0B1120&title_color=67E8F9&text_color=C4B5FD&icon_color=F472B6&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" /> </div>
 
+🔝 Top Contributed Repo
 
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:111827,100:050816&height=120&section=footer" width="100%" alt="Dark footer" /> </div> <!-- Proudly created with GPRM (https://gprm.itsvg.in ) -->
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:020617,100:000000&height=120&section=footer" width="100%" alt="Dark footer" /> </div> <!-- Proudly created with GPRM (https://gprm.itsvg.in ) -->
+
