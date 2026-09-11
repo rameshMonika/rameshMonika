@@ -1,4 +1,7 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,50:38BDF8,100:06B6D4&height=170&section=header&text=RAMESH%20MONIKA&fontSize=42&fontColor=082F49&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20Cloud%20Infrastructure&descAlignY=58&descSize=16&descColor=0F172A&animation=false" width="100%" alt="Header" />
+<div align="center">
+
+# RAMESH MONIKA
+### AI Engineer | Agentic Systems & Cloud Infrastructure
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=075985&center=true&vCenter=true&width=760&lines=Building+agentic+AI+systems;LangGraph+%7C+RAG+%7C+MCP+%7C+LLM+evaluation;Kubernetes+%7C+Docker+%7C+Terraform" alt="Typing animation" /></a>
 
